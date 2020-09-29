@@ -1,0 +1,6 @@
+[submodule "cards-frontend"]
+	path = cards-frontend
+	url = https://github.com/wingerwingman/studycards-frontend.git
+[submodule "cards-backend"]
+	path = cards-backend
+	url = https://github.com/wingerwingman/studycards-backend.git
